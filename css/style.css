@@ -1,0 +1,72 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-light {
+    background-color: #FBF7F4!important;
+    padding: 30px 0px !important;
+}
+
+.navber-icons .fas, .navber-icons .far {
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(95, 95, 95);
+}
+
+.navber-icons .fas:hover, .navber-icons .far:hover {
+    color: #63B991;
+}
+
+.bnr-shop-btn {
+    background: #63B991;
+}
+
+.banner {
+    background-image: url('../image/home1st.jpg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 250px 0px;
+}
+
+.banner h1 {
+    font-weight: 900;
+    color: #F0E52F;
+    font-size: 55px;
+}
+
+.banner p {
+    margin-top: 50px;
+}
+
+.bnr-shop-btn {
+    border: 1px solid #63B991;
+    padding: 10px 50px;
+    border-radius: 0px;
+}
+
+.bnr-shop-btn:hover {
+    background: #92d6b6;
+    border: 1px solid #92d6b6;
+    color: black;
+}
+
+.icon-sec {
+    text-align: center;
+    background: #FBF7F4;
+    padding: 30px 0px;
+}
+
+.icon-sec img {
+    margin-bottom: 15px;
+}
+
+.icon-sec p {
+    font-size: 14px;
+}
+
+.icon-sec .col-md-3 {
+    padding: 0px 50px;
+}
